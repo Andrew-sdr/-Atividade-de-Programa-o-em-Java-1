@@ -1,0 +1,1 @@
+Classe que utilize a JOptionPane para entrada de dados. Recebe o valor de transação de um imóvel, o valor venal e a porcentagem do imposto ITBI. É calculado o imposto com base no maior valor entre o valor de transação e o valor venal.
