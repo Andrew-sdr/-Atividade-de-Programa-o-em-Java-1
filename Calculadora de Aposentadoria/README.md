@@ -1,1 +1,1 @@
-
+Classe que recebe idade, sexo e anos de contribuição de uma pessoa. Determinando se ela já pode se aposentar ou quantos anos faltam para isso, baseado nas regras de aposentadoria por idade ou por tempo de contribuição.
